@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PrasanthiHospitals/precache-manifest.02113238eb314a5016b421fc72e51d42.js"
+  "/PrasanthiHospitals/precache-manifest.17f21d4cbdfd1c4e56557b86bb30960d.js"
 );
 
 self.addEventListener('message', (event) => {
