@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PrasanthiHospitals/static/css/main.6132e41a.chunk.css",
+    "main.js": "/PrasanthiHospitals/static/js/main.13e270b4.chunk.js",
+    "main.js.map": "/PrasanthiHospitals/static/js/main.13e270b4.chunk.js.map",
+    "runtime-main.js": "/PrasanthiHospitals/static/js/runtime-main.3f6490ec.js",
+    "runtime-main.js.map": "/PrasanthiHospitals/static/js/runtime-main.3f6490ec.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/PrasanthiHospitals/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.6bfa3363.chunk.js": "/PrasanthiHospitals/static/js/2.6bfa3363.chunk.js",
+    "static/js/2.6bfa3363.chunk.js.map": "/PrasanthiHospitals/static/js/2.6bfa3363.chunk.js.map",
+    "index.html": "/PrasanthiHospitals/index.html",
+    "precache-manifest.02113238eb314a5016b421fc72e51d42.js": "/PrasanthiHospitals/precache-manifest.02113238eb314a5016b421fc72e51d42.js",
+    "service-worker.js": "/PrasanthiHospitals/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/PrasanthiHospitals/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.6132e41a.chunk.css.map": "/PrasanthiHospitals/static/css/main.6132e41a.chunk.css.map",
+    "static/js/2.6bfa3363.chunk.js.LICENSE.txt": "/PrasanthiHospitals/static/js/2.6bfa3363.chunk.js.LICENSE.txt",
+    "static/media/doctor1.png": "/PrasanthiHospitals/static/media/doctor1.4402bb40.png",
+    "static/media/heart2.png": "/PrasanthiHospitals/static/media/heart2.6a73ebcc.png",
+    "static/media/logo.svg": "/PrasanthiHospitals/static/media/logo.1d8c46a2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f6490ec.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.6bfa3363.chunk.js",
+    "static/css/main.6132e41a.chunk.css",
+    "static/js/main.13e270b4.chunk.js"
+  ]
+}
