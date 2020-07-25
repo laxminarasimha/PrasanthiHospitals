@@ -25,8 +25,9 @@ const NavBar = () => {
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="ml-auto">
       <NavLink activeClassName="menu-active" exact className="nav-link" to="/">Home</NavLink> 
-      <NavLink activeClassName="menu-active" className="nav-link" to="/about">About</NavLink>  
+      <NavLink activeClassName="menu-active" className="nav-link" to="/about">About</NavLink>        
       <NavLink activeClassName="menu-active" className="nav-link" to="/service">Service</NavLink>     
+      <NavLink activeClassName="menu-active" className="nav-link" to="/doctors">Doctors</NavLink> 
       <NavLink activeClassName="menu-active" className="nav-link" to="/contact">Contact</NavLink> 
     </Nav>    
   </Navbar.Collapse>

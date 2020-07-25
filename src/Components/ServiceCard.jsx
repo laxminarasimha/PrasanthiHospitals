@@ -8,7 +8,7 @@ return(
     <>
         <div className="col-md-4 col-10 mx-auto">
             <Card>
-            <Card.Img variant="top" src={props.imgsrc} />
+            <Card.Img variant="top" src={props.imgsrc} className="myimage" />
             <Card.Body>
             <Card.Title font-weight-bold>{props.title}</Card.Title>
             <Card.Text>
